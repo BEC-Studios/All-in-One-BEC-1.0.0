@@ -1,0 +1,11 @@
+by BEC-Studios
+
+ai1cmd_pack.py is a PM "Plugin mod" that adds 500+ commands to the AI1 (All in 1) Terminal, created by BEC-Studios
+and PM - Plugin mod, PMF - Plugin mod folder, AI1 - All in 1, 
+
+BEC_ThemePack_AllInOne.py is a PM that adds a few themes to use, with an build in theme editor to create custom themes, the 
+bec style is a little bit inspired by macos tahoe
+
+ai1 v2.0.0, bec v1.0.0
+
+i will update ts text soon 
